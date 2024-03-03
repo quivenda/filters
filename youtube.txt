@@ -1,3 +1,10 @@
+[uBlock Origin 1.0]
+! Title: YouTube filters.
+! Description: YouTube filters for hide that I don't like.
+! Expires: 6 hours
+! Homepage: https://github.com/quivenda/filters
+! License: https://github.com/quivenda/filters/blob/main/LICENSE
+
 www.youtube-nocookie.com,www.youtube.com##.ytp-pause-overlay, .show-video-thumbnail-button
 www.youtube.com##.ytp-button.branding-img-container
 www.youtube.com##.ytp-button.ytp-cards-button
