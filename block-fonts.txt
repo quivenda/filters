@@ -1,0 +1,60 @@
+[uBlock Origin 1.0]
+! Title: Block fonts allow icons
+! Description: Block first and third party fonts but allow icons to be downloaded
+! Expires: 6 hours
+! Homepage: https://github.com/quivenda/filters
+! License: https://github.com/quivenda/filters/blob/main/LICENSE
+
+! -- block fonts
+||$font,1p,3p
+||fonts.googleapis.com
+||fonts.gstatic.com
+
+
+! -- google webfonts
+@@||fonts.googleapis.com^$font,xhr,domain=fonts.google.com
+@@||fonts.gstatic.com^$font,domain=fonts.google.com
+
+! -- nerdfonts cheat sheet
+@@||www.nerdfonts.com/assets/fonts/*$font,1p
+
+! -- allowed fonts and icons
+@@-icon
+@@-icons
+@@/-icon
+@@/-icons
+@@/Abrosia
+@@/AntDesign
+@@/Entypo
+@@/fa
+@@/FabricIcons
+@@/family=Material+Icons
+@@/Flaticon
+@@/fontawesome
+@@/Fontisto
+@@/glyphicons
+@@/GMPIcons
+@@/googlematerialicons
+@@/googlesymbols
+@@/icomoon
+@@/icon
+@@/icons
+@@/ionicons
+@@/ktplayeryt
+@@/lagom
+@@/MaterialCommOldIcons
+@@/materialdesignicons
+@@/materialicons
+@@/materialsymbols
+@@/materialsymbolsoutlined
+@@/mwfmdl2
+@@/NotoColorEmoji
+@@/redesignFont
+@@/SimpleLineIcons
+@@/sprites-fm-mono
+@@family=Google+Symbols
+@@family=Material+Icons
+@@family=Material+Symbols
+@@icon
+@@icons
+@@Material+Icons
