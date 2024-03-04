@@ -6,7 +6,7 @@
 ! License: https://github.com/quivenda/filters/blob/main/LICENSE
 
 ! -- block fonts
-||$font,1p,3p
+||$font
 ||fonts.googleapis.com
 ||fonts.gstatic.com
 
@@ -42,6 +42,7 @@
 @@/ionicons
 @@/ktplayeryt
 @@/lagom
+@@/material-symbols-outlined
 @@/MaterialCommOldIcons
 @@/materialdesignicons
 @@/materialicons
