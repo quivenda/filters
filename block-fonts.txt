@@ -13,7 +13,7 @@
 
 ! -- google webfonts
 @@||fonts.googleapis.com^$font,xhr,domain=fonts.google.com
-@@||fonts.gstatic.com^$font,domain=fonts.google.com|www.youtube.com
+@@||fonts.gstatic.com^$font,image,domain=fonts.google.com|www.youtube.com
 
 ! -- nerdfonts cheat sheet
 @@||www.nerdfonts.com/assets/fonts/*$font,1p
