@@ -53,6 +53,7 @@
 @@/redesignFont
 @@/SimpleLineIcons
 @@/sprites-fm-mono
+@@/unicons
 @@family=Google+Symbols
 @@family=Material+Icons
 @@family=Material+Symbols

@@ -1,5 +1,5 @@
 [uBlock Origin 1.0]
-! Title: YouTube filters.
+! Title: YouTube filters
 ! Description: YouTube filters for hide that I don't like.
 ! Expires: 6 hours
 ! Homepage: https://github.com/quivenda/filters
