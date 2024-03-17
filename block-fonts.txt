@@ -18,6 +18,9 @@
 ! -- nerdfonts cheat sheet
 @@||www.nerdfonts.com/assets/fonts/*$font,1p
 
+! -- ovh
+@@||ovh.com^$font,1p
+
 ! -- allowed fonts and icons
 @@-icon
 @@-icons
