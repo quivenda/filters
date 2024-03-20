@@ -27,11 +27,13 @@
 @@/-icons
 @@/Abrosia
 @@/AntDesign
+@@/aptos-serif
 @@/Entypo
 @@/fa
 @@/FabricIcons
 @@/family=Material+Icons
 @@/Flaticon
+@@/FluentSystemIcons
 @@/fontawesome
 @@/Fontisto
 @@/glyphicons
@@ -53,6 +55,7 @@
 @@/mwfmdl2
 @@/NotoColorEmoji
 @@/redesignFont
+@@/segoeui-
 @@/SimpleLineIcons
 @@/sprites-fm-mono
 @@/unicons
