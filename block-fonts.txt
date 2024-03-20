@@ -27,7 +27,8 @@
 @@/-icons
 @@/Abrosia
 @@/AntDesign
-@@/aptos-serif
+@@/aptos-
+@@/controlIcons
 @@/Entypo
 @@/fa
 @@/FabricIcons
