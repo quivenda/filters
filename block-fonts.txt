@@ -15,11 +15,10 @@
 @@||fonts.googleapis.com^$font,xhr,domain=fonts.google.com
 @@||fonts.gstatic.com^$font,image,xhr,domain=fonts.google.com|www.youtube.com
 
-! -- nerdfonts cheat sheet
-@@||www.nerdfonts.com/assets/fonts/*$font,1p
-
-! -- ovh
+! -- allow first party fonts
+@@||app.tuta.com^$font,1p
 @@||ovh.com^$font,1p
+@@||www.nerdfonts.com/assets/fonts/*$font,1p
 
 ! -- allowed fonts and icons
 @@-icon
