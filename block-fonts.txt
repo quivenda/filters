@@ -25,6 +25,7 @@
 @@-icons
 @@/-icon
 @@/-icons
+@@/@amx
 @@/Abrosia
 @@/AntDesign
 @@/aptos-
