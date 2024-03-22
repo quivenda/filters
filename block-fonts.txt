@@ -38,6 +38,7 @@
 @@/FluentSystemIcons
 @@/fontawesome
 @@/Fontisto
+@@/fonts/vivaldi
 @@/glyphicons
 @@/GMPIcons
 @@/googlematerialicons
